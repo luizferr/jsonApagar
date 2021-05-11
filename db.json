@@ -1,0 +1,16 @@
+{
+    "cursos": [
+        {   "id": 1,
+            "titulo": "Informática para Internet"     
+        },
+        {   "id": 2,
+            "titulo": "Administração"     
+        },
+        {   "id": 3,
+            "titulo": "Robótica"     
+        },
+        {   "id": 4,
+            "titulo": "Administração"     
+        }
+    ]
+}
